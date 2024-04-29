@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola Mundo</h1>
-    <h2>hola mundo 2</h2>
+    <h1>Programacion horientada a objetos</h1>
+    <h2>inicio</h2>
 </body>
 </html>
